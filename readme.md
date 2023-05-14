@@ -6,7 +6,6 @@ This is a paragraph. Text goes here. Lorem ipsum dolor sit amet, consectetur adi
 
 This is another paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
 ### This is a small heading. 
 
 This is another paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -20,7 +19,6 @@ This is another paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing el
 ***This text is bold and italic!***
 
 # This is a large heading.
-
 
 Here's an unordered list, with:
 <ul>
@@ -66,3 +64,14 @@ Format this text as code.
 ![Screenshot of a comment on GitHub issue showing an image, added in the Markdown, of a Kismet.](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
 
 When viewing the rendered document, this link should look something like:  [Here's a link!](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg) , and when clicked, this link should take you to the required URL.
+
+| Number | Color | Size |
+|--------|:-----:|-----:|
+| 1      | Red   |   20 |
+| 2      | Blue  |   30 |
+
+<p>Here is an the code</p>
+
+<pre><code>def my_function():
+  print("Hello from a function")
+</code></pre>
