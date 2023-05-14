@@ -53,6 +53,4 @@ def foo():
     if not bar:
         return True
 
-![Alt text][def]
-
 [def]: https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg
