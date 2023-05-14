@@ -66,3 +66,5 @@
 '       return True
 
 ![Screenshot of a comment on GitHub issue showing an image, added in the Markdown, of a Kismet.](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
+
+When viewing the rendered document, this link should look something like:  [Here's a link!](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg) , and when clicked, this link should take you to the required URL.
